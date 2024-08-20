@@ -7,11 +7,7 @@ app = FastAPI(
     version="1.0.0",
     servers=[
         {
-            "url": "https://youtube-transcriber-beta.vercel.app/",
-            "description": "Production server"
-        },
-        {
-            "url": "http://localhost:8000",
+            "url": "https://youtube-transcriber-m5luuhf8j-zain-attiqs-projects.vercel.app/",
             "description": "Production server"
         }
     ]
